@@ -1,0 +1,131 @@
+
+.about1 p{
+	left: 420px;
+	top:-45px;
+	position:relative;
+	font-size: 16px;
+	text-indent: 50px;
+	font-weight: bold;
+	display: inline-block;
+	font-style: times;
+}/* Inserta tu CSS aqui */
+.fondo{/*necesito definir los valores para ajustar la imagen de fondo*/
+	width: 960px;
+	height:280px;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	background-size: 960px;
+	background-image: url("../images/background.jpg");/*poner imagen de fondo*/
+}
+.logo{
+	left:380px;
+	top:20px;
+	position:relative;
+}
+.style p{
+ color:white;
+ top:50px;
+ left:370px;
+ font-style: times;
+ position:relative;
+ font-weight: bold;
+ font-size: 25px;
+}
+.tag p{
+ color:white;
+ top:60px;
+ left:350px;
+ font-style: times;
+ position:relative;
+ font-weight: bold;
+ font-size: 16px;	
+}
+.about p{
+	 color:#800080;
+	 top:40px;
+	 left:400px;
+	 font-style: times;
+	 position:relative;
+	 font-weight: bold;
+	 font-size: 28px;
+	 font-style: verdana;
+}
+.fondo2{/*necesito definir los valores para ajustar la imagen de fondo*/
+	width: 960px;
+	height:300px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-size: 960px;
+	background-image: url("../images/tile1.png");/*poner imagen de fondo*/
+}
+.are{
+	width: 190px;
+	height: 220px;
+	border: solid 1.5px black;
+	position:relative;
+	top:10px;
+	left:80px;
+}
+.parrafo{
+	font-style: arial;
+	font-size:16px;
+	position:relative;
+	top:50px;
+	left:-10px;
+	right:-20px;
+}
+.my p{
+	 color:#800080;
+	 top:40px;
+	 left:380px;
+	 font-style: times;
+	 position:relative;
+	 font-weight: bold;
+	 font-size: 24px;
+	 font-style: verdana;
+}
+.here p{
+	 color:#800080;
+	 top:50px;
+	 left:385px;
+	 font-style: times;
+	 position:relative;
+	 font-weight: bold;
+	 font-size: 14px;
+	 font-style: verdana;
+}
+.gatito{
+	border-radius: 50%;
+	border:  #800080;
+	border-style: double;
+	height: 150px;
+	width: 150px;
+	position:relative;
+	top:80px;
+	bottom: 
+}
+.fondo3{/*necesito definir los valores para ajustar la imagen de fondo*/
+	width: 960px;
+	height:280px;
+	margin-top: 120px;
+	margin-bottom: 50px;
+	background-size: 960px;
+	background-image: url("../images/tile2.png");/*poner imagen de fondo*/
+}
+.contact p{
+	 color:#800080;
+	 top:50px;
+	 left:385px;
+	 font-style: times;
+	 position:relative;
+	 font-weight: bold;
+	 font-size: 26px;
+	 font-style: verdana;
+}
+.twitter{
+	height: 100px;
+	width:100x;
+	position: relative;
+	left:300px;
+	top:80px;
+}
